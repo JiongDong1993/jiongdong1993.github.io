@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2020-conference-paper-1
 date: 2020-12-17
 venue: 'IEEE 16th International Conference on Mobility, Sensing and Networking (MSN)'
+sci-ei: CCF-C, Best Paper Award
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9394263'
 ---
 
