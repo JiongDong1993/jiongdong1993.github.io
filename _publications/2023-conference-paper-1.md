@@ -4,7 +4,7 @@ title: "Mining Insights from Virtual Reality Exergame Reviews with Latent Dirich
 collection: publications
 permalink: /publication/2023-Conference-paper-1
 date: 2023-12-08
-venue: 'IEEE  9th International Conference on Computer and Communications (ICCC)'
+venue: 'IEEE 9th International Conference on Computer and Communications (ICCC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10507562'
 ---
 
