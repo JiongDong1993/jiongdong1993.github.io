@@ -1,4 +1,3 @@
-
 ---
 title: "Mining Insights from Virtual Reality Exergame Reviews with Latent Dirichlet Allocation Method"
 collection: publications
