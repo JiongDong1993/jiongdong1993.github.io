@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Virtual Reality Technology"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2024-spring-teaching-2
+venue: "Xuchang University, School of Information Engineering"
+date: 2024.03 - 2024.07
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
