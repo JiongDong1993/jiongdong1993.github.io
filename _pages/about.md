@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I received the B.Eng degree in Computer Science from Dalian Maritime University (DMU), China, in 2015, and M.Eng degree in Computer Science from Ecole d’ingénieurs Polytechnique de  l’université de Tours, France, in 2017, and a Ph.D. degree in Advanced Information and Electronic Engineering from Muroran Institute of Technology, Japan, in 2023. 
-  
-Now I'm a Lecturer at Xuchang University, Xuchang, China. 
+#Eduction
+2011.09 - 2015.07 Dalian Maritime University (DMU), China,                            Computer Science, **Bachelor**
+2015.09 - 2017.11 Ecole d’ingénieurs Polytechnique de l’université de Tours, France, Computer Science, **Master**
+2020.10 - 2023.09 Muroran Institute of Technology, Japan,                             Computer Science, **Ph.D.**
+
+#Work
+2023.12 -Present, Xuchang University, Xuchang, China, Lecturer
+
+#Research
 My main fields of research interest include **Human-Computer Interaction, Extended Reality (AR, VR, MR).** 
