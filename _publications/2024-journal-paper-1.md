@@ -3,7 +3,7 @@ title: "Exploring Avatar Experiences in Social VR: A Comprehensive Analysis of U
 collection: publications
 permalink: /publication/2024-journal-paper-1
 date: 2024-01-08
-venue: 'IEEE Consumer Electronics Magazine (SCI四区)'
+venue: 'IEEE Consumer Electronics Magazine (JCR Q2, SCI四区)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10382638'
 ---
 
