@@ -3,7 +3,7 @@ title: "Real-time Survivor Detection in UAV Thermal Imagery based on Deep Learni
 collection: publications
 permalink: /publication/2020-conference-paper-1
 date: 2020-12-17
-venue: 'IEEE 16th International Conference on Mobility, Sensing and Networking (**Best Paper Award**, CCF-C)'
+venue: 'IEEE 16th International Conference on Mobility, Sensing and Networking (Best Paper Award, CCF-C)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9394263'
 ---
 
