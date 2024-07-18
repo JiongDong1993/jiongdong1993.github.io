@@ -3,7 +3,7 @@ title: "Video Frame Interpolation: A Comprehensive Survey"
 collection: publications
 permalink: /publication/2023-journal-paper-1
 date: 2023-05-11
-venue: 'ACM Transactions on Multimedia Computing, Communications and Applications (CCF-B, SCI三区)'
+venue: 'ACM Transactions on Multimedia Computing, Communications and Applications (JCR Q1, CCF-B, SCI三区)'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3556544'
 ---
 
